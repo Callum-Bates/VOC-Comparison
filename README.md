@@ -14,6 +14,7 @@ note: I estimated health severity categories from some brief reading
 ```bash
 pip install -r requirements.txt
 python voc_code.py
+```
 
 ## Data Availability
 
