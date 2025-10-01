@@ -4,7 +4,8 @@
 ## Key Finding
 - Significant opportunity for bio-engineered plants to improve indoor air quality
 
-## Visualizations
+## Visualisations
+note: I estimated health severity categories from some brief reading
 ![Indoor vs Outdoor Comparison](Indoor_vs_Outdoor.png)
 ![Indoor/Outdoor Ratios](Indoor_Outdoor_Ratio.png)
 
